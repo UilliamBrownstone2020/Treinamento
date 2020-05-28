@@ -2,7 +2,7 @@ Treinamento.
 
 Estou usando o vscode para obter um aprendizado mais rapido com a interface gráfica.
 
-![C:\Users\Visitante\Documents\Treinamento/print.png](Print)
+![.\print.png](Print)
 
 Verificando a condição automatica do commite no git (seleção de programas padrão).
 
