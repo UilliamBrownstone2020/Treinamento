@@ -1,8 +1,8 @@
-Treinamento.
+# Treinamento. <h1>
 
 Estou usando o vscode para obter um aprendizado mais rapido com a interface gráfica.
 
-![./print.png](print)
+![print](./print.pngprint)
 
 Verificando a condição automatica do commite no git (seleção de programas padrão).
 
