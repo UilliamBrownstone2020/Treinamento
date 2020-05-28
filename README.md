@@ -2,7 +2,7 @@
 
 Estou usando o vscode para obter um aprendizado mais rapido com a interface gráfica.
 
-![print](./print.pngprint)
+![print](./print.png)
 
 Verificando a condição automatica do commite no git (seleção de programas padrão).
 
